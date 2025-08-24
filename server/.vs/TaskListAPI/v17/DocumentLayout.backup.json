@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BFEB-CB11-431D-9720-EAFC2A9FA79C}|TaskListAPI\\TaskListAPI.csproj|c:\\users\\rjhvi\\desktop\\cenas\\janzcodefolder\\tasklist\\server\\tasklistapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BFEB-CB11-431D-9720-EAFC2A9FA79C}|TaskListAPI\\TaskListAPI.csproj|solutionrelative:tasklistapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BFEB-CB11-431D-9720-EAFC2A9FA79C}|TaskListAPI\\TaskListAPI.csproj|c:\\users\\rjhvi\\desktop\\cenas\\janzcodefolder\\tasklist\\server\\tasklistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BFEB-CB11-431D-9720-EAFC2A9FA79C}|TaskListAPI\\TaskListAPI.csproj|solutionrelative:tasklistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BFEB-CB11-431D-9720-EAFC2A9FA79C}|TaskListAPI\\TaskListAPI.csproj|c:\\users\\rjhvi\\desktop\\cenas\\janzcodefolder\\tasklist\\server\\tasklistapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6746BFEB-CB11-431D-9720-EAFC2A9FA79C}|TaskListAPI\\TaskListAPI.csproj|solutionrelative:tasklistapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\TaskListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskListAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\TaskListAPI\\Program.cs",
+              "RelativeToolTip": "TaskListAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:56:52.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\TaskListAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskListAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\TaskListAPI\\appsettings.Development.json",
+              "RelativeToolTip": "TaskListAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T17:36:21.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\TaskListAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskListAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\rjhvi\\Desktop\\Cenas\\JANZCodefolder\\TaskList\\server\\TaskListAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskListAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T12:37:16.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
